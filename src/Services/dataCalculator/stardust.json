@@ -1,0 +1,106 @@
+[{
+    "levels": [1, 1.5, 2, 2.5],
+    "stardust": 200,
+    "candy": 1
+  },
+  {
+    "levels": [3, 3.5, 4, 4.5],
+    "stardust": 400,
+    "candy": 1
+  },
+  {
+    "levels": [5, 5.5, 6, 6.5],
+    "stardust": 600,
+    "candy": 1
+  },
+  {
+    "levels": [7, 7.5, 8, 8.5],
+    "stardust": 800,
+    "candy": 1
+  },
+  {
+    "levels": [9, 9.5, 10, 10.5],
+    "stardust": 1000,
+    "candy": 1
+  },
+  {
+    "levels": [11, 11.5, 12, 12.5],
+    "stardust": 1300,
+    "candy": 2
+  },
+  {
+    "levels": [13, 13.5, 14, 14.5],
+    "stardust": 1600,
+    "candy": 2
+  },
+  {
+    "levels": [15, 15.5, 16, 16.5],
+    "stardust": 1900,
+    "candy": 2
+  },
+  {
+    "levels": [17, 17.5, 18, 18.5],
+    "stardust": 2200,
+    "candy": 2
+  },
+  {
+    "levels": [19, 19.5, 20, 20.5],
+    "stardust": 2500,
+    "candy": 2
+  },
+  {
+    "levels": [21, 21.5, 22, 22.5],
+    "stardust": 3000,
+    "candy": 3
+  },
+  {
+    "levels": [23, 23.5, 24, 24.5],
+    "stardust": 3500,
+    "candy": 3
+  },
+  {
+    "levels": [25, 25.5],
+    "stardust": 4000,
+    "candy": 3
+  },
+  {
+    "levels": [26, 26.5],
+    "stardust": 4000,
+    "candy": 4
+  },
+  {
+    "levels": [27, 27.5, 28, 28.5],
+    "stardust": 4500,
+    "candy": 4
+  },
+  {
+    "levels": [29, 29.5, 30, 30.5],
+    "stardust": 5000,
+    "candy": 4
+  },
+  {
+    "levels": [31, 31.5, 32, 32.5],
+    "stardust": 6000,
+    "candy": 6
+  },
+  {
+    "levels": [33, 33.5, 34, 34.5],
+    "stardust": 7000,
+    "candy": 8
+  },
+  {
+    "levels": [35, 35.5, 36, 36.5],
+    "stardust": 8000,
+    "candy": 10
+  },
+  {
+    "levels": [37, 37.5, 38, 38.5],
+    "stardust": 9000,
+    "candy": 12
+  },
+  {
+    "levels": [39, 39.5],
+    "stardust": 10000,
+    "candy": 15
+  }
+]

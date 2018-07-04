@@ -1,0 +1,359 @@
+[
+  {
+  "id": 43,
+  "rows": [{
+    "id": 45,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Female",
+      "form": "Normal",
+      "evolved": false
+    }, {
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Male",
+      "form": "Normal",
+      "evolved": false
+    }]
+  }, {
+    "id": 182,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Female",
+      "form": "Normal",
+      "evolved": false
+    }, {
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Male",
+      "form": "Normal",
+      "evolved": false
+    }]
+  }]
+}, {
+  "id": 60,
+  "rows": [{
+    "id": 62,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Female",
+      "form": "Normal",
+      "evolved": false
+    }, {
+      "nickname": null,
+      "stardust": 2500,
+      "rating": 40,
+      "sex": "Male",
+      "form": "Normal",
+      "evolved": true
+    }]
+  },  {
+    "id": 186,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 2500,
+      "rating": 40,
+      "sex": "Female",
+      "form": "Normal",
+      "evolved": true
+    }, {
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Male",
+      "evolved": false
+    }]
+  }]
+}, {
+  "id": 79,
+  "rows": [{
+    "id": 80,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 6000,
+      "rating": 43,
+      "sex": "Female",
+      "form": "Slowbro",
+      "evolved": true
+    }, {
+      "nickname": null,
+      "stardust": 2500,
+      "rating": 40,
+      "sex": "Male",
+      "form": "Slowbro",
+      "evolved": true
+    }]
+  }, {
+    "id": 199,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 2500,
+      "rating": 40,
+      "sex": "Female",
+      "form": "Slowking",
+      "evolved": true
+    }, {
+      "nickname": "Hula",
+      "stardust": 6000,
+      "rating": 43,
+      "sex": "Male",
+      "form": "Slowking",
+      "evolved": true
+    }]
+  }]
+}, {
+  "id": 236,
+  "rows": [{
+      "id": 106,
+      "pokemon": [{
+        "nickname": null,
+        "stardust": 2500,
+        "rating": 41,
+        "sex": "Male",
+        "form": "Normal",
+        "evolved": true
+      }]
+    },
+    {
+      "id": 107,
+      "pokemon": [{
+        "nickname": null,
+        "stardust": 0,
+        "rating": 0,
+        "sex": "Male",
+        "form": "Normal",
+        "evolved": false
+      }]
+    },
+    {
+      "id": 237,
+      "pokemon": [{
+        "nickname": null,
+        "stardust": 2500,
+        "rating": 41,
+        "sex": "Male",
+        "form": "Normal",
+        "evolved": true
+      }]
+    }
+  ]
+}, {
+  "id": 133,
+  "rows": [{
+      "id": 134,
+      "pokemon": [{
+        "nickname": null,
+        "stardust": 0,
+        "rating": 0,
+        "sex": "Female",
+        "form": "Normal",
+        "evolved": false
+      }, {
+        "nickname": "Bubbles",
+        "stardust": 6000,
+        "rating": 39,
+        "sex": "Male",
+        "form": "Normal",
+        "evolved": true
+      }, {
+        "nickname": null,
+        "stardust": 0,
+        "rating": 0,
+        "sex": "Male",
+        "form": "Normal",
+        "evolved": false
+      }]
+    },
+    {
+      "id": 135,
+      "pokemon": [{
+        "nickname": null,
+        "stardust": 0,
+        "rating": 0,
+        "sex": "Female",
+        "form": "Normal",
+        "evolved": false
+      }, {
+        "nickname": null,
+        "stardust": 2500,
+        "rating": 40,
+        "sex": "Male",
+        "form": "Normal",
+        "evolved": true
+      }]
+    },
+    {
+      "id": 136,
+      "pokemon": [{
+        "nickname": null,
+        "stardust": 0,
+        "rating": 0,
+        "sex": "Female",
+        "form": "Normal",
+        "evolved": false
+      }, {
+        "nickname": "DancingQueen",
+        "stardust": 6000,
+        "rating": 44,
+        "sex": "Male",
+        "form": "Normal",
+        "evolved": true
+      }]
+    },
+    {
+      "id": 196,
+      "pokemon": [{
+        "nickname": null,
+        "stardust": 0,
+        "rating": 0,
+        "sex": "Female",
+        "form": "Normal",
+        "evolved": false
+      }, {
+        "nickname": null,
+        "stardust": 0,
+        "rating": 0,
+        "sex": "Male",
+        "form": "Normal",
+        "evolved": false
+      }]
+    },
+    {
+      "id": 197,
+      "pokemon": [{
+        "nickname": null,
+        "stardust": 0,
+        "rating": 0,
+        "sex": "Female",
+        "form": "Normal",
+        "evolved": false
+      }, {
+        "nickname": null,
+        "stardust": 2200,
+        "rating": 42,
+        "sex": "Male",
+        "form": "Normal",
+        "evolved": true
+      }]
+    }
+  ]
+}, {
+  "id": 265,
+  "rows": [{
+    "id": 267,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Female",
+      "form": "Normal",
+      "evolved": false
+    }, {
+      "nickname": null,
+      "stardust": 6000,
+      "rating": 42,
+      "sex": "Male",
+      "form": "Normal",
+      "evolved": true
+    }]
+  }, {
+    "id": 269,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Female",
+      "form": "Normal",
+      "evolved": false
+    }, {
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Male",
+      "form": "Normal",
+      "evolved": false
+    }]
+  }]
+}, {
+  "id": 290,
+  "rows": [{
+    "id": 291,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Female",
+      "form": "Normal",
+      "evolved": false
+    }, {
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Male",
+      "form": "Normal",
+      "evolved": false
+    }]
+  }, {
+    "id": 292,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Female",
+      "form": "Normal",
+      "evolved": false
+    }, {
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Male",
+      "form": "Normal",
+      "evolved": false
+    }]
+  }]
+}, {
+  "id": 366,
+  "rows": [{
+    "id": 367,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Female",
+      "form": "Normal",
+      "evolved": false
+    }, {
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Male",
+      "form": "Normal",
+      "evolved": false
+    }]
+  }, {
+    "id": 368,
+    "pokemon": [{
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Female",
+      "form": "Normal",
+      "evolved": false
+    }, {
+      "nickname": null,
+      "stardust": 0,
+      "rating": 0,
+      "sex": "Male",
+      "form": "Normal",
+      "evolved": false
+    }]
+  }]
+}]

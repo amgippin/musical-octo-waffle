@@ -1,0 +1,1742 @@
+[{
+    "id": 252,
+    "name": "Treecko",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass"],
+      "evolution": [253, 254],
+      "bStamina": 80,
+      "bAttack": 124,
+      "bDefense": 104
+    }]
+  },
+  {
+    "id": 253,
+    "name": "Grovyle",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass"],
+      "evolution": [254],
+      "previous": [252],
+      "bStamina": 100,
+      "bAttack": 172,
+      "bDefense": 130
+    }]
+  },
+  {
+    "id": 254,
+    "name": "Sceptile",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass"],
+      "previous": [252, 253],
+      "bStamina": 140,
+      "bAttack": 223,
+      "bDefense": 180
+    }]
+  },
+  {
+    "id": 255,
+    "name": "Torchic",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Fire"],
+      "evolution": [256, 257],
+      "bStamina": 90,
+      "bAttack": 130,
+      "bDefense": 92
+    }]
+  },
+  {
+    "id": 256,
+    "name": "Combusken",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Fire", "Fighting"],
+      "evolution": [257],
+      "previous": [255],
+      "bStamina": 120,
+      "bAttack": 163,
+      "bDefense": 115
+    }]
+  },
+  {
+    "id": 257,
+    "name": "Blaziken",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Fire", "Fighting"],
+      "previous": [255, 256],
+      "bStamina": 160,
+      "bAttack": 240,
+      "bDefense": 141
+    }]
+  },
+  {
+    "id": 258,
+    "name": "Mudkip",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "evolution": [259, 260],
+      "bStamina": 100,
+      "bAttack": 126,
+      "bDefense": 93
+    }]
+  },
+  {
+    "id": 259,
+    "name": "Marshtomp",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Ground"],
+      "evolution": [260],
+      "previous": [258],
+      "bStamina": 140,
+      "bAttack": 156,
+      "bDefense": 133
+    }]
+  },
+  {
+    "id": 260,
+    "name": "Swampert",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Ground"],
+      "previous": [258, 259],
+      "bStamina": 200,
+      "bAttack": 208,
+      "bDefense": 175
+    }]
+  },
+  {
+    "id": 261,
+    "name": "Poochyena",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Dark"],
+      "evolution": [262],
+      "bStamina": 70,
+      "bAttack": 96,
+      "bDefense": 63
+    }]
+  },
+  {
+    "id": 262,
+    "name": "Mightyena",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Dark"],
+      "previous": [261],
+      "bStamina": 140,
+      "bAttack": 171,
+      "bDefense": 137
+    }]
+  },
+  {
+    "id": 263,
+    "name": "Zigzagoon",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "evolution": [264],
+      "bStamina": 76,
+      "bAttack": 58,
+      "bDefense": 80
+    }]
+  },
+  {
+    "id": 264,
+    "name": "Linoone",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "previous": [263],
+      "bStamina": 156,
+      "bAttack": 142,
+      "bDefense": 128
+    }]
+  },
+  {
+    "id": 265,
+    "name": "Wurmple",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug"],
+      "evolution": [266, 267, 268, 269],
+      "previous": [],
+      "bStamina": 90,
+      "bAttack": 75,
+      "bDefense": 61
+    }]
+  },
+  {
+    "id": 266,
+    "name": "Silcoon",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug"],
+      "evolution": [267],
+      "previous": [265],
+      "bStamina": 100,
+      "bAttack": 60,
+      "bDefense": 91
+    }]
+  },
+  {
+    "id": 267,
+    "name": "Beautifly",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug", "Flying"],
+      "previous": [265, 266],
+      "bStamina": 120,
+      "bAttack": 189,
+      "bDefense": 98
+    }]
+  },
+  {
+    "id": 268,
+    "name": "Cascoon",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug"],
+      "evolution": [269],
+      "previous": [265],
+      "bStamina": 100,
+      "bAttack": 60,
+      "bDefense": 91
+    }]
+  },
+  {
+    "id": 269,
+    "name": "Dustox",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug", "Poison"],
+      "previous": [265, 268],
+      "bStamina": 120,
+      "bAttack": 98,
+      "bDefense": 172
+    }]
+  },
+  {
+    "id": 270,
+    "name": "Lotad",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Grass"],
+      "evolution": [271, 272],
+      "bStamina": 80,
+      "bAttack": 71,
+      "bDefense": 86
+    }]
+  },
+  {
+    "id": 271,
+    "name": "Lombre",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Grass"],
+      "evolution": [272],
+      "previous": [270],
+      "bStamina": 120,
+      "bAttack": 112,
+      "bDefense": 128
+    }]
+  },
+  {
+    "id": 272,
+    "name": "Ludicolo",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Grass"],
+      "previous": [270, 271],
+      "bStamina": 160,
+      "bAttack": 173,
+      "bDefense": 191
+    }]
+  },
+  {
+    "id": 273,
+    "name": "Seedot",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass"],
+      "evolution": [274, 275],
+      "previous": [],
+      "bStamina": 80,
+      "bAttack": 71,
+      "bDefense": 86
+    }]
+  },
+  {
+    "id": 274,
+    "name": "Nuzleaf",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass", "Dark"],
+      "evolution": [275],
+      "previous": [273],
+      "bStamina": 140,
+      "bAttack": 134,
+      "bDefense": 78
+    }]
+  },
+  {
+    "id": 275,
+    "name": "Shiftry",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass", "Dark"],
+      "previous": [273, 274],
+      "bStamina": 180,
+      "bAttack": 200,
+      "bDefense": 121
+    }]
+  },
+  {
+    "id": 276,
+    "name": "Taillow",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal", "Flying"],
+      "evolution": [277],
+      "bStamina": 80,
+      "bAttack": 106,
+      "bDefense": 61
+    }]
+  },
+  {
+    "id": 277,
+    "name": "Swellow",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal", "Flying"],
+      "previous": [276],
+      "bStamina": 120,
+      "bAttack": 185,
+      "bDefense": 130
+    }]
+  },
+  {
+    "id": 278,
+    "name": "Wingull",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Flying"],
+      "evolution": [279],
+      "bStamina": 80,
+      "bAttack": 106,
+      "bDefense": 61
+    }]
+  },
+  {
+    "id": 279,
+    "name": "Pelipper",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Flying"],
+      "previous": [278],
+      "bStamina": 120,
+      "bAttack": 175,
+      "bDefense": 189
+    }]
+  },
+  {
+    "id": 280,
+    "name": "Ralts",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Psychic", "Fairy"],
+      "evolution": [281, 282],
+      "bStamina": 56,
+      "bAttack": 79,
+      "bDefense": 63
+    }]
+  },
+  {
+    "id": 281,
+    "name": "Kirlia",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Psychic", "Fairy"],
+      "evolution": [282],
+      "previous": [280],
+      "bStamina": 76,
+      "bAttack": 117,
+      "bDefense": 100
+    }]
+  },
+  {
+    "id": 282,
+    "name": "Gardevoir",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Psychic", "Fairy"],
+      "previous": [280, 281],
+      "bStamina": 136,
+      "bAttack": 237,
+      "bDefense": 220
+    }]
+  },
+  {
+    "id": 283,
+    "name": "Surskit",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug", "Water"],
+      "evolution": [284],
+      "bStamina": 80,
+      "bAttack": 93,
+      "bDefense": 97
+    }]
+  },
+  {
+    "id": 284,
+    "name": "Masquerain",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug", "Flying"],
+      "previous": [283],
+      "bStamina": 140,
+      "bAttack": 192,
+      "bDefense": 161
+    }]
+  },
+  {
+    "id": 285,
+    "name": "Shroomish",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass"],
+      "evolution": [286],
+      "bStamina": 120,
+      "bAttack": 74,
+      "bDefense": 110
+    }]
+  },
+  {
+    "id": 286,
+    "name": "Breloom",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass", "Fighting"],
+      "previous": [285],
+      "bStamina": 120,
+      "bAttack": 241,
+      "bDefense": 153
+    }]
+  },
+  {
+    "id": 287,
+    "name": "Slakoth",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "evolution": [288, 289],
+      "bStamina": 120,
+      "bAttack": 104,
+      "bDefense": 104
+    }]
+  },
+  {
+    "id": 288,
+    "name": "Vigoroth",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "evolution": [289],
+      "previous": [287],
+      "bStamina": 160,
+      "bAttack": 159,
+      "bDefense": 159
+    }]
+  },
+  {
+    "id": 289,
+    "name": "Slaking",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "previous": [287, 288],
+      "bStamina": 273,
+      "bAttack": 290,
+      "bDefense": 183
+    }]
+  },
+  {
+    "id": 290,
+    "name": "Nincada",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug", "Ground"],
+      "evolution": [291, 292],
+      "bStamina": 62,
+      "bAttack": 80,
+      "bDefense": 153
+    }]
+  },
+  {
+    "id": 291,
+    "name": "Ninjask",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug", "Flying"],
+      "previous": [290],
+      "bStamina": 122,
+      "bAttack": 199,
+      "bDefense": 116
+    }]
+  },
+  {
+    "id": 292,
+    "name": "Shedinja",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug", "Ghost"],
+      "previous": [290],
+      "bStamina": 2,
+      "bAttack": 153,
+      "bDefense": 80
+    }]
+  },
+  {
+    "id": 293,
+    "name": "Whismur",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "evolution": [294, 295],
+      "bStamina": 128,
+      "bAttack": 92,
+      "bDefense": 42
+    }]
+  },
+  {
+    "id": 294,
+    "name": "Loudred",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "evolution": [295],
+      "previous": [293],
+      "bStamina": 168,
+      "bAttack": 134,
+      "bDefense": 81
+    }]
+  },
+  {
+    "id": 295,
+    "name": "Exploud",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "previous": [293, 295],
+      "bStamina": 208,
+      "bAttack": 179,
+      "bDefense": 142
+    }]
+  },
+  {
+    "id": 296,
+    "name": "Makuhita",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Fighting"],
+      "evolution": [297],
+      "bStamina": 144,
+      "bAttack": 99,
+      "bDefense": 54
+    }]
+  },
+  {
+    "id": 297,
+    "name": "Hariyama",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Fighting"],
+      "previous": [296],
+      "bStamina": 288,
+      "bAttack": 209,
+      "bDefense": 114
+    }]
+  },
+  {
+    "id": 298,
+    "name": "Azurill",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal", "Fairy"],
+      "evolution": [183, 184],
+      "bStamina": 100,
+      "bAttack": 36,
+      "bDefense": 71
+    }]
+  },
+  {
+    "id": 299,
+    "name": "Nosepass",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Rick"],
+      "bStamina": 60,
+      "bAttack": 82,
+      "bDefense": 236
+    }]
+  },
+  {
+    "id": 300,
+    "name": "Skitty",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "evolution": [301],
+      "bStamina": 100,
+      "bAttack": 84,
+      "bDefense": 84
+    }]
+  },
+  {
+    "id": 301,
+    "name": "Delcatty",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "previous": [300],
+      "bStamina": 140,
+      "bAttack": 132,
+      "bDefense": 132
+    }]
+  },
+  {
+    "id": 302,
+    "name": "Sableye",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Dark", "Ghost"],
+      "bStamina": 100,
+      "bAttack": 141,
+      "bDefense": 141
+    }]
+  },
+  {
+    "id": 303,
+    "name": "Mawile",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Steel", "Fairy"],
+      "bStamina": 100,
+      "bAttack": 155,
+      "bDefense": 155
+    }]
+  },
+  {
+    "id": 304,
+    "name": "Aron",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Steel", "Rock"],
+      "evolution": [305, 306],
+      "bStamina": 100,
+      "bAttack": 121,
+      "bDefense": 168
+    }]
+  },
+  {
+    "id": 305,
+    "name": "Lairon",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Steel", "Rock"],
+      "evolution": [306],
+      "previous": [304],
+      "bStamina": 120,
+      "bAttack": 158,
+      "bDefense": 240
+    }]
+  },
+  {
+    "id": 306,
+    "name": "Aggron",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Steel", "Rock"],
+      "previous": [304, 305],
+      "bStamina": 140,
+      "bAttack": 198,
+      "bDefense": 314
+    }]
+  },
+  {
+    "id": 307,
+    "name": "Meditite",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Fighting", "Psychic"],
+      "evolution": [308],
+      "bStamina": 60,
+      "bAttack": 78,
+      "bDefense": 107
+    }]
+  },
+  {
+    "id": 308,
+    "name": "Medicham",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Fighting", "Psychic"],
+      "evolution": [307],
+      "bStamina": 120,
+      "bAttack": 121,
+      "bDefense": 152
+    }]
+  },
+  {
+    "id": 309,
+    "name": "Electrike",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Electric"],
+      "evolution": [310],
+      "bStamina": 80,
+      "bAttack": 123,
+      "bDefense": 78
+    }]
+  },
+  {
+    "id": 310,
+    "name": "Manectric",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Electric"],
+      "previous": [309],
+      "bStamina": 140,
+      "bAttack": 215,
+      "bDefense": 127
+    }]
+  },
+  {
+    "id": 311,
+    "name": "Plusle",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Electric"],
+      "bStamina": 120,
+      "bAttack": 167,
+      "bDefense": 147
+    }]
+  },
+  {
+    "id": 312,
+    "name": "Minun",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Electric"],
+      "bStamina": 120,
+      "bAttack": 147,
+      "bDefense": 167
+    }]
+  },
+  {
+    "id": 313,
+    "name": "Volbeat",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug"],
+      "bStamina": 130,
+      "bAttack": 143,
+      "bDefense": 171
+    }]
+  },
+  {
+    "id": 314,
+    "name": "Illumise",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Bug"],
+      "bStamina": 130,
+      "bAttack": 143,
+      "bDefense": 171
+    }]
+  },
+  {
+    "id": 315,
+    "name": "Roselia",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass", "Poison"],
+      "bStamina": 100,
+      "bAttack": 186,
+      "bDefense": 148
+    }]
+  },
+  {
+    "id": 316,
+    "name": "Gulpin",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Poison"],
+      "evolution": [317],
+      "bStamina": 140,
+      "bAttack": 80,
+      "bDefense": 99
+    }]
+  },
+  {
+    "id": 317,
+    "name": "Swalot",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Poison"],
+      "previous": [316],
+      "bStamina": 200,
+      "bAttack": 140,
+      "bDefense": 159
+    }]
+  },
+  {
+    "id": 318,
+    "name": "Carvanha",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Dark"],
+      "evolution": [319],
+      "bStamina": 90,
+      "bAttack": 171,
+      "bDefense": 39
+    }]
+  },
+  {
+    "id": 319,
+    "name": "Sharpedo",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Dark"],
+      "previous": [318],
+      "bStamina": 140,
+      "bAttack": 243,
+      "bDefense": 83
+    }]
+  },
+  {
+    "id": 320,
+    "name": "Wailmer",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "evolution": [321],
+      "bStamina": 260,
+      "bAttack": 136,
+      "bDefense": 68
+    }]
+  },
+  {
+    "id": 321,
+    "name": "Wailord",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "previous": [320],
+      "bStamina": 340,
+      "bAttack": 175,
+      "bDefense": 87
+    }]
+  },
+  {
+    "id": 322,
+    "name": "Numel",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Fire", "Ground"],
+      "evolution": [323],
+      "bStamina": 120,
+      "bAttack": 119,
+      "bDefense": 82
+    }]
+  },
+  {
+    "id": 323,
+    "name": "Camerupt",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Fire", "Ground"],
+      "previous": [322],
+      "bStamina": 140,
+      "bAttack": 194,
+      "bDefense": 139
+    }]
+  },
+  {
+    "id": 324,
+    "name": "Torkoal",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Fire"],
+      "bStamina": 140,
+      "bAttack": 151,
+      "bDefense": 234
+    }]
+  },
+  {
+    "id": 325,
+    "name": "Spoink",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Psychic"],
+      "evolution": [326],
+      "bStamina": 120,
+      "bAttack": 125,
+      "bDefense": 145
+    }]
+  },
+  {
+    "id": 326,
+    "name": "Grumpig",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Psychic"],
+      "previous": [325],
+      "bStamina": 160,
+      "bAttack": 171,
+      "bDefense": 211
+    }]
+  },
+  {
+    "id": 327,
+    "name": "Spinda",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "bStamina": 120,
+      "bAttack": 116,
+      "bDefense": 116
+    }]
+  },
+  {
+    "id": 328,
+    "name": "Trapinch",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Ground"],
+      "evolution": [329, 330],
+      "bStamina": 90,
+      "bAttack": 162,
+      "bDefense": 78
+    }]
+  },
+  {
+    "id": 329,
+    "name": "Vibrava",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Ground", "Dragon"],
+      "evolution": [330],
+      "previous": [328],
+      "bStamina": 100,
+      "bAttack": 134,
+      "bDefense": 99
+    }]
+  },
+  {
+    "id": 330,
+    "name": "Flygon",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Ground", "Dragon"],
+      "previous": [328, 329],
+      "bStamina": 160,
+      "bAttack": 205,
+      "bDefense": 168
+    }]
+  },
+  {
+    "id": 331,
+    "name": "Cacnea",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass"],
+      "evolution": [332],
+      "bStamina": 100,
+      "bAttack": 156,
+      "bDefense": 74
+    }]
+  },
+  {
+    "id": 332,
+    "name": "Cacturne",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass", "Dark"],
+      "previous": [331],
+      "bStamina": 140,
+      "bAttack": 221,
+      "bDefense": 115
+    }]
+  },
+  {
+    "id": 333,
+    "name": "Swablu",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal", "Flying"],
+      "evolution": [334],
+      "bStamina": 90,
+      "bAttack": 76,
+      "bDefense": 139
+    }]
+  },
+  {
+    "id": 334,
+    "name": "Altaria",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Dragon", "Flying"],
+      "previous": [333],
+      "bStamina": 150,
+      "bAttack": 141,
+      "bDefense": 208
+    }]
+  },
+  {
+    "id": 335,
+    "name": "Zangoose",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "bStamina": 146,
+      "bAttack": 222,
+      "bDefense": 124
+    }]
+  },
+  {
+    "id": 336,
+    "name": "Seviper",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Poison"],
+      "bStamina": 146,
+      "bAttack": 196,
+      "bDefense": 118
+    }]
+  },
+  {
+    "id": 337,
+    "name": "Lunatone",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Rock", "Psychic"],
+      "bStamina": 180,
+      "bAttack": 178,
+      "bDefense": 163
+    }]
+  },
+  {
+    "id": 338,
+    "name": "Solrock",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Rock", "Psychic"],
+      "bStamina": 180,
+      "bAttack": 178,
+      "bDefense": 163
+    }]
+  },
+  {
+    "id": 339,
+    "name": "Barboach",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Ground"],
+      "evolution": [340],
+      "bStamina": 100,
+      "bAttack": 93,
+      "bDefense": 83
+    }]
+  },
+  {
+    "id": 340,
+    "name": "Whiscash",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Ground"],
+      "previous": [339],
+      "bStamina": 220,
+      "bAttack": 151,
+      "bDefense": 142
+    }]
+  },
+  {
+    "id": 341,
+    "name": "Corphish",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "evolution": [342],
+      "bStamina": 86,
+      "bAttack": 141,
+      "bDefense": 113
+    }]
+  },
+  {
+    "id": 342,
+    "name": "Crawdaunt",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Dark"],
+      "previous": [341],
+      "bStamina": 126,
+      "bAttack": 224,
+      "bDefense": 156
+    }]
+  },
+  {
+    "id": 343,
+    "name": "Baltoy",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Ground", "Psychic"],
+      "evolution": [344],
+      "bStamina": 80,
+      "bAttack": 77,
+      "bDefense": 131
+    }]
+  },
+  {
+    "id": 344,
+    "name": "Claydol",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Ground", "Psychic"],
+      "previous": [343],
+      "bStamina": 120,
+      "bAttack": 140,
+      "bDefense": 236
+    }]
+  },
+  {
+    "id": 345,
+    "name": "Lileep",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Rock", "Grass"],
+      "evolution": [346],
+      "bStamina": 132,
+      "bAttack": 105,
+      "bDefense": 154
+    }]
+  },
+  {
+    "id": 346,
+    "name": "Cradily",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Rock", "Grass"],
+      "previous": [345],
+      "bStamina": 172,
+      "bAttack": 152,
+      "bDefense": 198
+    }]
+  },
+  {
+    "id": 347,
+    "name": "Anorith",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Rock", "Bug"],
+      "evolution": [348],
+      "bStamina": 90,
+      "bAttack": 176,
+      "bDefense": 100
+    }]
+  },
+  {
+    "id": 348,
+    "name": "Armaldo",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Rock", "Bug"],
+      "previous": [347],
+      "bStamina": 150,
+      "bAttack": 222,
+      "bDefense": 183
+    }]
+  },
+  {
+    "id": 349,
+    "name": "Feebas",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "evolution": [350],
+      "bStamina": 40,
+      "bAttack": 29,
+      "bDefense": 102
+    }]
+  },
+  {
+    "id": 350,
+    "name": "Milotic",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "previous": [349],
+      "bStamina": 190,
+      "bAttack": 192,
+      "bDefense": 242
+    }]
+  },
+  {
+    "id": 351,
+    "name": "Castform",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "bStamina": 140,
+      "bAttack": 139,
+      "bDefense": 139
+    }]
+  },
+  {
+    "id": 352,
+    "name": "Kecleon",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Normal"],
+      "bStamina": 120,
+      "bAttack": 161,
+      "bDefense": 212
+    }]
+  },
+  {
+    "id": 353,
+    "name": "Shuppet",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male", "Shiny"],
+      "type": ["Ghost"],
+      "evolution": [354],
+      "bStamina": 88,
+      "bAttack": 138,
+      "bDefense": 66
+    }]
+  },
+  {
+    "id": 354,
+    "name": "Banette",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male", "Shiny"],
+      "type": ["Ghost"],
+      "previous": [353],
+      "bStamina": 128,
+      "bAttack": 218,
+      "bDefense": 127
+    }]
+  },
+  {
+    "id": 355,
+    "name": "Duskull",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Ghost"],
+      "evolution": [356],
+      "bStamina": 40,
+      "bAttack": 70,
+      "bDefense": 162
+    }]
+  },
+  {
+    "id": 356,
+    "name": "Dusclops",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Ghost"],
+      "previous": [355],
+      "bStamina": 80,
+      "bAttack": 124,
+      "bDefense": 234
+    }]
+  },
+  {
+    "id": 357,
+    "name": "Tropius",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Grass", "Flying"],
+      "bStamina": 198,
+      "bAttack": 136,
+      "bDefense": 165
+    }]
+  },
+  {
+    "id": 358,
+    "name": "Chimecho",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Psychic"],
+      "bStamina": 150,
+      "bAttack": 175,
+      "bDefense": 174
+    }]
+  },
+  {
+    "id": 359,
+    "name": "Absol",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Dark"],
+      "bStamina": 130,
+      "bAttack": 246,
+      "bDefense": 120
+    }]
+  },
+  {
+    "id": 360,
+    "name": "Wynaut",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Psychic"],
+      "evolution": [202],
+      "bStamina": 190,
+      "bAttack": 41,
+      "bDefense": 86
+    }]
+  },
+  {
+    "id": 361,
+    "name": "Snorunt",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Ice"],
+      "evolution": [362],
+      "bStamina": 100,
+      "bAttack": 95,
+      "bDefense": 95
+    }]
+  },
+  {
+    "id": 362,
+    "name": "Glalie",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Ice"],
+      "previous": [361],
+      "bStamina": 160,
+      "bAttack": 162,
+      "bDefense": 162
+    }]
+  },
+  {
+    "id": 363,
+    "name": "Spheal",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Ice", "Water"],
+      "evolution": [364, 365],
+      "bStamina": 140,
+      "bAttack": 95,
+      "bDefense": 90
+    }]
+  },
+  {
+    "id": 364,
+    "name": "Sealeo",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Ice", "Water"],
+      "evolution": [365],
+      "previous": [363],
+      "bStamina": 180,
+      "bAttack": 137,
+      "bDefense": 132
+    }]
+  },
+  {
+    "id": 365,
+    "name": "Walrein",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Ice", "Water"],
+      "previous": [363, 364],
+      "bStamina": 220,
+      "bAttack": 182,
+      "bDefense": 176
+    }]
+  },
+  {
+    "id": 366,
+    "name": "Clamperl",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "evolution": [367, 368],
+      "bStamina": 70,
+      "bAttack": 133,
+      "bDefense": 149
+    }]
+  },
+  {
+    "id": 367,
+    "name": "Huntail",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "previous": [366],
+      "bStamina": 110,
+      "bAttack": 197,
+      "bDefense": 194
+    }]
+  },
+  {
+    "id": 368,
+    "name": "Gorebyss",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "previous": [366],
+      "bStamina": 110,
+      "bAttack": 211,
+      "bDefense": 194
+    }]
+  },
+  {
+    "id": 369,
+    "name": "Relicanth",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Water", "Rock"],
+      "bStamina": 200,
+      "bAttack": 162,
+      "bDefense": 234
+    }]
+  },
+  {
+    "id": 370,
+    "name": "Luvdisc",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "bStamina": 86,
+      "bAttack": 81,
+      "bDefense": 134
+    }]
+  },
+  {
+    "id": 371,
+    "name": "Bagon",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Dragon"],
+      "evolution": [272, 273],
+      "bStamina": 90,
+      "bAttack": 134,
+      "bDefense": 107
+    }]
+  },
+  {
+    "id": 372,
+    "name": "Shelgon",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Dragon"],
+      "evolution": [373],
+      "previous": [371],
+      "bStamina": 130,
+      "bAttack": 172,
+      "bDefense": 179
+    }]
+  },
+  {
+    "id": 373,
+    "name": "Salamence",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Dragon", "Flying"],
+      "previous": [371, 372],
+      "bStamina": 190,
+      "bAttack": 277,
+      "bDefense": 168
+    }]
+  },
+  {
+    "id": 374,
+    "name": "Beldum",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Steel", "Psychic"],
+      "evolution": [375, 376],
+      "bStamina": 80,
+      "bAttack": 96,
+      "bDefense": 141
+    }]
+  },
+  {
+    "id": 375,
+    "name": "Metang",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Steel", "Psychic"],
+      "evolution": [376],
+      "previous": [374],
+      "bStamina": 120,
+      "bAttack": 138,
+      "bDefense": 185
+    }]
+  },
+  {
+    "id": 376,
+    "name": "Metagross",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Steel", "Psychic"],
+      "previous": [374, 375],
+      "bStamina": 160,
+      "bAttack": 257,
+      "bDefense": 248
+    }]
+  },
+  {
+    "id": 377,
+    "name": "Regirock",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Rock"],
+      "bStamina": 160,
+      "bAttack": 179,
+      "bDefense": 356
+    }]
+  },
+  {
+    "id": 378,
+    "name": "Regice",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Ice"],
+      "bStamina": 160,
+      "bAttack": 179,
+      "bDefense": 356
+    }]
+  },
+  {
+    "id": 379,
+    "name": "Registeel",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Steel"],
+      "bStamina": 160,
+      "bAttack": 143,
+      "bDefense": 285
+    }]
+  },
+  {
+    "id": 380,
+    "name": "Latias",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Dragon", "Psychic"],
+      "bStamina": 160,
+      "bAttack": 228,
+      "bDefense": 268
+    }]
+  },
+  {
+    "id": 381,
+    "name": "Latios",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Dragon", "Psychic"],
+      "bStamina": 160,
+      "bAttack": 268,
+      "bDefense": 228
+    }]
+  },
+  {
+    "id": 382,
+    "name": "Kyogre",
+    "versions": [{
+      "forms": ["Normal", "Shiny"],
+      "sex": ["Female", "Male"],
+      "type": ["Water"],
+      "bStamina": 200,
+      "bAttack": 297,
+      "bDefense": 276
+    }]
+  },
+  {
+    "id": 383,
+    "name": "Groudon",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Ground"],
+      "bStamina": 200,
+      "bAttack": 297,
+      "bDefense": 276
+    }]
+  },
+  {
+    "id": 384,
+    "name": "Rayquaza",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Dragon", "Flying"],
+      "bStamina": 210,
+      "bAttack": 312,
+      "bDefense": 187
+    }]
+  },
+  {
+    "id": 385,
+    "name": "Jirachi",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Steel", "Psychic"],
+      "bStamina": 200,
+      "bAttack": 210,
+      "bDefense": 210
+    }]
+  },
+  {
+    "id": 386,
+    "name": "Deoxys",
+    "versions": [{
+      "forms": ["Normal"],
+      "sex": ["Female", "Male"],
+      "type": ["Psychic"],
+      "bStamina": 100,
+      "bAttack": 345,
+      "bDefense": 115
+    }]
+  }
+]
