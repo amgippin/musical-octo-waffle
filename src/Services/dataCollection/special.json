@@ -55,7 +55,7 @@
       "form": "Normal",
       "evolved": true
     }]
-  },  {
+  }, {
     "id": 186,
     "pokemon": [{
       "nickname": null,
@@ -95,11 +95,11 @@
     "id": 199,
     "pokemon": [{
       "nickname": null,
-      "stardust": 2500,
+      "stardust": 1900,
       "rating": 40,
       "sex": "Female",
       "form": "Slowking",
-      "evolved": true
+      "evolved": false
     }, {
       "nickname": "Hula",
       "stardust": 6000,
@@ -115,22 +115,22 @@
       "id": 106,
       "pokemon": [{
         "nickname": null,
-        "stardust": 2500,
-        "rating": 41,
+        "stardust": 0,
+        "rating": 0,
         "sex": "Male",
         "form": "Normal",
-        "evolved": true
+        "evolved": false
       }]
     },
     {
       "id": 107,
       "pokemon": [{
         "nickname": null,
-        "stardust": 0,
-        "rating": 0,
+        "stardust": 2500,
+        "rating": 41,
         "sex": "Male",
         "form": "Normal",
-        "evolved": false
+        "evolved": true
       }]
     },
     {
@@ -248,7 +248,7 @@
 }, {
   "id": 265,
   "rows": [{
-    "id": 267,
+    "id": 182,
     "pokemon": [{
       "nickname": null,
       "stardust": 0,

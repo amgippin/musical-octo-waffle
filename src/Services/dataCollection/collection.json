@@ -1,6 +1,7 @@
-[{
+[
+  {
   "id": 3,
-  "candy": 120,
+  "candy": 144,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": "FlowerDog",
@@ -11,11 +12,11 @@
     "evolved": true
   }, {
     "nickname": null,
-    "stardust": 5000,
-    "rating": 39,
+    "stardust": 1900,
+    "rating": 41,
     "sex": "Male",
     "form": "Normal",
-    "evolved": true
+    "evolved": false
   }, {
     "nickname": null,
     "stardust": 8000,
@@ -26,7 +27,7 @@
   }]
 }, {
   "id": 6,
-  "candy": 235,
+  "candy": 252,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -37,11 +38,11 @@
     "evolved": false
   }, {
     "nickname": "Matches",
-    "stardust": 4500,
-    "rating": 41,
+    "stardust": 1900,
+    "rating": 43,
     "sex": "Male",
     "form": "Normal",
-    "evolved": true
+    "evolved": false
   }, {
     "nickname": "Burnt",
     "stardust": 1600,
@@ -52,7 +53,7 @@
   }]
 }, {
   "id": 9,
-  "candy": 319,
+  "candy": 745,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -63,22 +64,43 @@
     "evolved": false
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 1900,
+    "rating": 43,
     "sex": "Male",
     "form": "Normal",
     "evolved": false
   }, {
     "nickname": null,
+    "stardust": 3500,
+    "rating": 37,
+    "sex": "Female",
+    "form": "Shiny",
+    "evolved": true
+  }, {
+    "nickname": null,
     "stardust": 0,
     "rating": 0,
-    "sex": "",
-    "form": "Shiny",
+    "sex": "Female",
+    "form": "Glasses",
+    "evolved": false
+  }, {
+    "nickname": null,
+    "stardust": 1900,
+    "rating": 44,
+    "sex": "Male",
+    "form": "Glasses",
+    "evolved": false
+  },  {
+    "nickname": null,
+    "stardust": 1900,
+    "rating": 40,
+    "sex": "Male",
+    "form": "Glasses - Shiny",
     "evolved": false
   }]
 }, {
   "id": 12,
-  "candy": 94,
+  "candy": 101,
   "evolveCost": 62,
   "pokemon": [{
     "nickname": null,
@@ -97,7 +119,7 @@
   }]
 }, {
   "id": 15,
-  "candy": 170,
+  "candy": 204,
   "evolveCost": 62,
   "pokemon": [{
     "nickname": null,
@@ -116,7 +138,7 @@
   }]
 }, {
   "id": 18,
-  "candy": 298,
+  "candy": 328,
   "evolveCost": 62,
   "pokemon": [{
     "nickname": null,
@@ -153,22 +175,22 @@
     "evolved": true
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 2500,
+    "rating": 43,
     "sex": "Female",
     "form": "Aloha",
     "evolved": false
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 2500,
+    "rating": 41,
     "sex": "Male",
     "form": "Aloha",
     "evolved": false
   }]
 }, {
   "id": 22,
-  "candy": 271,
+  "candy": 285,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -180,10 +202,10 @@
   }, {
     "nickname": null,
     "stardust": 2500,
-    "rating": 42,
+    "rating": 0,
     "sex": "Male",
     "form": "Normal",
-    "evolved": true
+    "evolved": false
   }]
 }, {
   "id": 24,
@@ -206,7 +228,7 @@
   }]
 }, {
   "id": 26,
-  "candy": 453,
+  "candy": 653,
   "evolveCost": 62,
   "pokemon": [{
     "nickname": null,
@@ -257,10 +279,17 @@
     "sex": "",
     "form": "Aloha",
     "evolved": false
+  }, {
+    "nickname": null,
+    "stardust": 1900,
+    "rating": 41,
+    "sex": "Male",
+    "form": "Summer",
+    "evolved": false
   }]
 }, {
   "id": 28,
-  "candy": 358,
+  "candy": 685,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -278,22 +307,22 @@
     "evolved": false
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 2500,
+    "rating": 44,
     "sex": "Female",
     "form": "Aloha",
     "evolved": false
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 2500,
+    "rating": 41,
     "sex": "Male",
     "form": "Aloha",
     "evolved": false
   }]
 }, {
   "id": 31,
-  "candy": 108,
+  "candy": 116,
   "evolveCost": 100,
   "pokemon": [{
     "nickname": "Leia",
@@ -305,7 +334,7 @@
   }]
 }, {
   "id": 34,
-  "candy": 72,
+  "candy": 84,
   "evolveCost": 100,
   "pokemon": [{
     "nickname": "Henry",
@@ -317,7 +346,7 @@
   }]
 }, {
   "id": 36,
-  "candy": 56,
+  "candy": 63,
   "evolveCost": 62,
   "pokemon": [{
     "nickname": "Clegend",
@@ -347,6 +376,13 @@
     "evolved": true
   }, {
     "nickname": null,
+    "stardust": 1900,
+    "rating": 42,
+    "sex": "Female",
+    "form": "Normal",
+    "evolved": false
+  }, {
+    "nickname": null,
     "stardust": 0,
     "rating": 0,
     "sex": "Male",
@@ -369,7 +405,7 @@
   }]
 }, {
   "id": 40,
-  "candy": 244,
+  "candy": 301,
   "evolveCost": 62,
   "pokemon": [{
     "nickname": null,
@@ -407,12 +443,12 @@
   }]
 }, {
   "id": 43,
-  "candy": 467,
+  "candy": 500,
   "evolveCost": 124,
   "special": true
 }, {
   "id": 47,
-  "candy": 153,
+  "candy": 167,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": "Mushy",
@@ -431,7 +467,7 @@
   }]
 }, {
   "id": 49,
-  "candy": 122,
+  "candy": 129,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -450,7 +486,7 @@
   }]
 }, {
   "id": 51,
-  "candy": 131,
+  "candy": 152,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": "DigDig",
@@ -483,7 +519,7 @@
   }]
 }, {
   "id": 53,
-  "candy": 179,
+  "candy": 355,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -509,14 +545,14 @@
   }, {
     "nickname": null,
     "stardust": 2500,
-    "rating": 42,
+    "rating": 45,
     "sex": "Male",
     "form": "Aloha",
-    "evolved": true
+    "evolved": false
   }]
 }, {
   "id": 55,
-  "candy": 108,
+  "candy": 111,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -535,7 +571,7 @@
   }]
 }, {
   "id": 57,
-  "candy": 361,
+  "candy": 365,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -573,12 +609,12 @@
   }]
 }, {
   "id": 60,
-  "candy": 203,
+  "candy": 206,
   "evolveCost": 124,
   "special": true
 }, {
   "id": 65,
-  "candy": 81,
+  "candy": 87,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -597,7 +633,7 @@
   }]
 }, {
   "id": 68,
-  "candy": 268,
+  "candy": 290,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -616,7 +652,7 @@
   }]
 }, {
   "id": 71,
-  "candy": 102,
+  "candy": 88,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -635,7 +671,7 @@
   }]
 }, {
   "id": 73,
-  "candy": 134,
+  "candy": 136,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -654,7 +690,7 @@
   }]
 }, {
   "id": 76,
-  "candy": 91,
+  "candy": 151,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -672,15 +708,15 @@
     "evolved": true
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 2500,
+    "rating": 40,
     "sex": "Female",
     "form": "Aloha",
     "evolved": false
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 2500,
+    "rating": 41,
     "sex": "Male",
     "form": "Aloha",
     "evolved": false
@@ -706,7 +742,7 @@
   }]
 }, {
   "id": 79,
-  "candy": 31,
+  "candy": 36,
   "evolveCost": 50,
   "special": true
 }, {
@@ -780,7 +816,7 @@
   }]
 }, {
   "id": 89,
-  "candy": 66,
+  "candy": 170,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -813,7 +849,7 @@
   }]
 }, {
   "id": 91,
-  "candy": 301,
+  "candy": 323,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -839,7 +875,7 @@
   }]
 }, {
   "id": 94,
-  "candy": 13,
+  "candy": 40,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -869,15 +905,15 @@
     "evolved": false
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 2500,
+    "rating": 42,
     "sex": "Male",
     "form": "Normal",
-    "evolved": false
+    "evolved": true
   }]
 }, {
   "id": 97,
-  "candy": 94,
+  "candy": 101,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -889,14 +925,14 @@
   }, {
     "nickname": null,
     "stardust": 2500,
-    "rating": 40,
+    "rating": 41,
     "sex": "Male",
     "form": "Normal",
     "evolved": true
   }]
 }, {
   "id": 99,
-  "candy": 183,
+  "candy": 190,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -915,7 +951,7 @@
   }]
 }, {
   "id": 101,
-  "candy": 110,
+  "candy": 129,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -927,7 +963,7 @@
   }]
 }, {
   "id": 103,
-  "candy": 274,
+  "candy": 183,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -960,7 +996,7 @@
   }]
 }, {
   "id": 105,
-  "candy": 341,
+  "candy": 447,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -998,7 +1034,7 @@
   "special": true
 }, {
   "id": 108,
-  "candy": 82,
+  "candy": 92,
   "evolveCost": 0,
   "pokemon": [{
     "nickname": null,
@@ -1036,7 +1072,7 @@
   }]
 }, {
   "id": 112,
-  "candy": 108,
+  "candy": 112,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -1062,15 +1098,15 @@
   }]
 }, {
   "id": 242,
-  "candy": 82,
+  "candy": 98,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 3500,
+    "rating": 40,
     "sex": "Female",
     "form": "Normal",
-    "evolved": false
+    "evolved": true
   }]
 }, {
   "id": 114,
@@ -1105,15 +1141,15 @@
   }]
 }, {
   "id": 230,
-  "candy": 247,
+  "candy": 253,
   "evolveCost": 0,
   "pokemon": [{
-    "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "nickname": "Queendra",
+    "stardust": 4000,
+    "rating": 37,
     "sex": "Female",
     "form": "Normal",
-    "evolved": false
+    "evolved": true
   }, {
     "nickname": null,
     "stardust": 0,
@@ -1178,11 +1214,11 @@
     "evolved": false
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 2500,
+    "rating": 41,
     "sex": "Male",
     "form": "Normal",
-    "evolved": false
+    "evolved": true
   }]
 }, {
   "id": 124,
@@ -1224,7 +1260,7 @@
   }]
 }, {
   "id": 126,
-  "candy": 254,
+  "candy": 230,
   "evolveCost": 25,
   "pokemon": [{
     "nickname": null,
@@ -1288,7 +1324,7 @@
   }]
 }, {
   "id": 130,
-  "candy": 1278,
+  "candy": 547,
   "evolveCost": 400,
   "pokemon": [{
     "nickname": null,
@@ -1301,6 +1337,13 @@
     "nickname": null,
     "stardust": 1900,
     "rating": 42,
+    "sex": "Male",
+    "form": "Normal",
+    "evolved": true
+  }, {
+    "nickname": "SeaSnek",
+    "stardust": 6000,
+    "rating": 41,
     "sex": "Male",
     "form": "Normal",
     "evolved": true
@@ -1345,7 +1388,7 @@
   }]
 }, {
   "id": 133,
-  "candy": 757,
+  "candy": 791,
   "evolveCost": 25,
   "special": true
 }, {
@@ -1354,11 +1397,11 @@
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 2500,
+    "rating": 42,
     "sex": "",
     "form": "Normal",
-    "evolved": false
+    "evolved": true
   }]
 }, {
   "id": 139,
@@ -1373,8 +1416,8 @@
     "evolved": false
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 1000,
+    "rating": 40,
     "sex": "Male",
     "form": "Normal",
     "evolved": false
@@ -1440,7 +1483,7 @@
   }]
 }, {
   "id": 143,
-  "candy": 43,
+  "candy": 68,
   "evolveCost": 0,
   "pokemon": [{
     "nickname": null,
@@ -1486,6 +1529,13 @@
     "rating": 40,
     "sex": "",
     "form": "Normal",
+    "evolved": false
+  }, {
+    "nickname": null,
+    "stardust": 0,
+    "rating": 0,
+    "sex": "",
+    "form": "Shiny",
     "evolved": false
   }]
 }, {
@@ -1552,7 +1602,7 @@
   }]
 }, {
   "id": 154,
-  "candy": 44,
+  "candy": 48,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -1609,7 +1659,7 @@
   }]
 }, {
   "id": 162,
-  "candy": 214,
+  "candy": 243,
   "evolveCost": 25,
   "pokemon": [{
     "nickname": null,
@@ -1666,7 +1716,7 @@
   }]
 }, {
   "id": 168,
-  "candy": 125,
+  "candy": 138,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -1749,7 +1799,7 @@
   }]
 }, {
   "id": 181,
-  "candy": 431,
+  "candy": 432,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -1760,11 +1810,11 @@
     "evolved": true
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 600,
+    "rating": 41,
     "sex": "Male",
     "form": "Normal",
-    "evolved": false
+    "evolved": true
   }, {
     "nickname": null,
     "stardust": 2200,
@@ -1908,7 +1958,7 @@
   }]
 }, {
   "id": 198,
-  "candy": 547,
+  "candy": 552,
   "evolveCost": 0,
   "pokemon": [{
     "nickname": null,
@@ -1957,17 +2007,38 @@
   "evolveCost": 0,
   "pokemon": [{
     "nickname": null,
-    "stardust": 0,
+    "stardust": 4000,
     "rating": 0,
-    "sex": "Female",
-    "form": "Normal",
+    "sex": "",
+    "form": "A",
     "evolved": false
   }, {
     "nickname": null,
-    "stardust": 0,
+    "stardust": 2500,
     "rating": 0,
-    "sex": "Male",
-    "form": "Normal",
+    "sex": "",
+    "form": "G",
+    "evolved": false
+  }, {
+    "nickname": null,
+    "stardust": 3000,
+    "rating": 0,
+    "sex": "",
+    "form": "M",
+    "evolved": false
+  }, {
+    "nickname": null,
+    "stardust": 5000,
+    "rating": 0,
+    "sex": "",
+    "form": "S",
+    "evolved": false
+  }, {
+    "nickname": null,
+    "stardust": 2500,
+    "rating": 0,
+    "sex": "",
+    "form": "V",
     "evolved": false
   }]
 }, {
@@ -2131,20 +2202,13 @@
   }]
 }, {
   "id": 214,
-  "candy": 24,
+  "candy": 27,
   "evolveCost": 0,
   "pokemon": [{
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 4500,
+    "rating": 38,
     "sex": "Female",
-    "form": "Normal",
-    "evolved": false
-  }, {
-    "nickname": null,
-    "stardust": 0,
-    "rating": 0,
-    "sex": "Male",
     "form": "Normal",
     "evolved": false
   }]
@@ -2188,7 +2252,7 @@
   }]
 }, {
   "id": 219,
-  "candy": 111,
+  "candy": 126,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": "Gary",
@@ -2312,7 +2376,7 @@
     "form": "Normal",
     "evolved": false
   }, {
-    "nickname": null,
+    "nickname": "FlappyFlap",
     "stardust": 6000,
     "rating": 44,
     "sex": "Male",
@@ -2473,7 +2537,7 @@
   }]
 }, {
   "id": 248,
-  "candy": 311,
+  "candy": 194,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -2484,8 +2548,8 @@
     "evolved": true
   }, {
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 600,
+    "rating": 43,
     "sex": "Male",
     "form": "Normal",
     "evolved": false
@@ -2632,7 +2696,7 @@
   }]
 }, {
   "id": 264,
-  "candy": 291,
+  "candy": 469,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -2694,7 +2758,7 @@
   }]
 }, {
   "id": 277,
-  "candy": 381,
+  "candy": 448,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -2755,8 +2819,8 @@
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 400,
+    "rating": 40,
     "sex": "Female",
     "form": "Normal",
     "evolved": false
@@ -2813,7 +2877,7 @@
   "special": true
 }, {
   "id": 295,
-  "candy": 291,
+  "candy": 349,
   "evolveCost": 62,
   "pokemon": [{
     "nickname": null,
@@ -2825,10 +2889,17 @@
   }, {
     "nickname": null,
     "stardust": 6000,
-    "rating": 40,
+    "rating": 41,
     "sex": "Male",
     "form": "Normal",
     "evolved": true
+  }, {
+    "nickname": null,
+    "stardust": 2200,
+    "rating": 42,
+    "sex": "Male",
+    "form": "Normal",
+    "evolved": false
   }]
 }, {
   "id": 297,
@@ -2877,12 +2948,12 @@
   }]
 }, {
   "id": 301,
-  "candy": 234,
+  "candy": 253,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
+    "stardust": 1900,
+    "rating": 40,
     "sex": "Female",
     "form": "Normal",
     "evolved": false
@@ -2948,7 +3019,7 @@
   }]
 }, {
   "id": 306,
-  "candy": 382,
+  "candy": 481,
   "evolveCost": 124,
   "pokemon": [{
     "nickname": null,
@@ -3061,14 +3132,7 @@
   "evolveCost": 0,
   "pokemon": [{
     "nickname": null,
-    "stardust": 0,
-    "rating": 0,
-    "sex": "Female",
-    "form": "Normal",
-    "evolved": false
-  }, {
-    "nickname": null,
-    "stardust": 0,
+    "stardust": 8000,
     "rating": 0,
     "sex": "Male",
     "form": "Normal",
@@ -3439,7 +3503,7 @@
   }]
 }, {
   "id": 344,
-  "candy": 20,
+  "candy": 24,
   "evolveCost": 50,
   "pokemon": [{
     "nickname": null,
@@ -3489,7 +3553,7 @@
   }]
 }, {
   "id": 350,
-  "candy": 116,
+  "candy": 152,
   "evolveCost": 100,
   "pokemon": [{
     "nickname": null,
